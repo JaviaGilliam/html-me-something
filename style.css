@@ -1,0 +1,78 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+html{
+      margin-left: 80px;
+      margin-right: 80px;
+
+}
+header{
+    text-align: center;
+    padding: 5px;
+
+    
+
+}
+h1{
+    text-align: center;
+    font-size: 16pt;
+
+
+}
+h2{
+    text-align: center;
+    font-size: 16pt;
+
+}
+footer{
+    text-align: center;
+    font-family:fantasy;
+
+}
+article{
+    text-align: center;
+    font-family:fantasy;
+
+}
+body{
+    background-color: ivory;
+
+}
+img{
+    border: 2px double black; 
+    padding: 3px;
+    
+
+
+}
+main{
+    text-align: center;
+    font-family:fantasy;
+
+}
+#ChasingAtlas{
+ 
+    text-align: center;
+    font-family:fantasy;
+    font-style: bold;
+    font-size: 30pt;
+
+
+}
+.Gin{
+
+border: 2px double black;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+p{
+    font-family:fantasy;
+    padding: 30px;
+
+
+}
